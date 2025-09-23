@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "c1ceabff-cf16-adca-80b0-d0441fe8596a",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0851a00a-fbc9-c47f-c37c-47847045a887",
+    "website": "21l-512-american-authors-autobiography-and-memoir-fall-2013"
+  },
+  "course_title": "American Authors: Autobiography and Memoir",
+  "course_description": "What is a \"life\" when it's written down? How does memory inform the present? Why are autobiographies and memoirs so popular? This course will address these questions among others, considering the relationship between biography, autobiography, and memoir and between personal and social themes. We will examine classic authors such as Mary Rowlandson, Benjamin Franklin, Frederick Douglass, Harriet Jacobs, and Mark Twain; then more recent examples like Tobias Wolff, Art Spiegelman, Sherman Alexie, Shirley Geok-lin Lim, Edwidge Danticat, and Alison Bechdel.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.512",
+  "course_image_thumbnail": {
+    "content": "5346533c-13a8-df45-74a6-66400d055504",
+    "website": "21l-512-american-authors-autobiography-and-memoir-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "7af0f999-2c80-483a-802e-3899805214ae",
+  "site_short_id": "21l.512-fall-2013",
+  "site_url_path": "courses/21l-512-american-authors-autobiography-and-memoir-fall-2013",
+  "title": "Course Metadata"
+}
