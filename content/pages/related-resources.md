@@ -13,27 +13,27 @@ RESOURCES
 {{< thclose >}}{{< thopen >}}
 USEFUL INFORMATION
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "2ced189b-5498-41e8-9a40-90c2ae6c5bd5" "Oxford English Dictionary" %}}
+[Oxford English Dictionary](http://www.oed.com/)
 {{< tdclose >}}{{< tdopen >}}
 
 - Definitive record
 - Dictionary, thesaurus, timelines and sources
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "c1b3f6b3-60df-42bc-9f4c-15ee933e62bc" "MIT Libraries" %}}
+[MIT Libraries](http://libguides.mit.edu/lit)
 {{< tdclose >}}{{< tdopen >}}
 
 - Resources for literary study at the MIT libraries
 - Link to the OED, LION, JSTOR, and other databases for scholarly articles and other resources
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "6a7a4230-6b9b-4577-9192-71ee88c6030e" "MIT Writing and Communications Center" %}}
+[MIT Writing and Communications Center](http://writing.mit.edu/wcc)
 {{< tdclose >}}{{< tdopen >}}
 
 - For writing help and a rich supply of resources
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{% resource_link "db10fe0f-abc5-4308-a2f1-3622f7051221" "Purdue OWL (Online Writing Lab)" %}}
+[Purdue OWL (Online Writing Lab)](https://owl.english.purdue.edu/owl/resource/747/01/)
 {{< tdclose >}}{{< tdopen >}}
 
 - Guidelines for MLA citation form
@@ -46,7 +46,7 @@ USEFUL INFORMATION
 - MLA citations
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Jenkins, Henry. "{{% resource_link "947ff2f3-fa4d-44cb-b272-d4110eac297f" "What Wikipedia Can Teach us About the New Media Literacies" %}}." June 2007.
+Jenkins, Henry. "[What Wikipedia Can Teach us About the New Media Literacies](http://henryjenkins.org/2007/06/what_wikipedia_can_teach_us_ab.html)." June 2007.
 {{< tdclose >}}{{< tdopen >}}
 
 - A good way to think about what Wikipedia is for
@@ -70,7 +70,7 @@ Fowler, Henry Watson, and Francis George Fowler. *The King's English*. Kessinger
 - Grammar and style
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-Corbett, Philip B. "{{% resource_link "39b9fb7a-4dff-4f27-8320-4fb5cdf77760" "After Deadline: Newsroom Notes on Usage and Style" %}}." accessed March 4, 2014.
+Corbett, Philip B. "[After Deadline: Newsroom Notes on Usage and Style](http://afterdeadline.blogs.nytimes.com/)." accessed March 4, 2014.
 {{< tdclose >}}{{< tdopen >}}
 
 - Grammar and style

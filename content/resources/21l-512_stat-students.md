@@ -4,6 +4,8 @@ description: Image indicating course enrollment numbers.
 file: /courses/21l-512-american-authors-autobiography-and-memoir-fall-2013/f747ea54347212bfccda2d212b15e123_21L-512_stat-students.png
 file_size: 2955
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
